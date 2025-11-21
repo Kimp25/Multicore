@@ -167,7 +167,7 @@ Si deseas que tu backend quede disponible como API:
 
 ### 📌 Flujo completo del sistema
 
-![Flow](https://i.ibb.co/6njMq7W/flow-gameshelf.png)
+![Flow](./images/Captura de pantalla 2025-11-21 015435.png)
 
 ---
 
@@ -202,7 +202,6 @@ node worker/updateGames.js
 * **Metacritic Scraping**
 * **HLTB Parsing**
 * **GitHub Actions**
-* **CRON Jobs**
 
 ---
 
