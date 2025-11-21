@@ -163,11 +163,9 @@ Si deseas que tu backend quede disponible como API:
 
 ---
 
-## 🖼️ **Capturas / Ilustraciones del Sistema**
+## 🖼️ ** Ilustraciones del Sistema**
 
-### 📌 Flujo completo del sistema
-
-![Flow](./images/Captura de pantalla 2025-11-21 015435.png)
+![Flow](./images/inicio4.png)
 
 ---
 
