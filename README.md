@@ -5,7 +5,7 @@
 <div align="center">
 
 # 🎮 **Games Shelf**
-### *Encuentra los mejores precios de juegos en línea*
+
 
 ![Banner](https://i.ibb.co/1zfbcR8/gameshelf-banner.png)
 
@@ -21,7 +21,7 @@
 
 ## 🧩 **¿Qué es Games Shelf?**
 **Games Shelf** es un sistema que busca automáticamente los precios, ofertas y datos relevantes de **200 videojuegos reales** usando web scraping, APIs oficiales y actualización continua mediante **GitHub Actions**.
-
+https://frontend-six-jade-49.vercel.app/
 Su objetivo es:
 
 ✔ Encontrar el precio mínimo disponible  
@@ -210,7 +210,9 @@ node worker/updateGames.js
 
 **Games Shelf – Multicore Project**
 🔹 *Kimberly Padilla*
-🔹 *Equipo Multicore 2025*
+🔹 *Sebastián Garbanzo*
+🔹 *Kevin Montano*
+🔹 *KSK*
 
 ---
 
@@ -218,7 +220,6 @@ node worker/updateGames.js
 
 ### 🎮 Gracias por usar **Games Shelf**
 
-*Tu aliado para encontrar los mejores precios de juegos en toda la web.*
 
 </div>
 ```
